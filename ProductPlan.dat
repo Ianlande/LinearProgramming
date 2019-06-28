@@ -1,0 +1,15 @@
+set Products := hammer wrench screwdriver towel;
+
+param Weight :=
+    hammer      5
+    wrench      7
+    screwdriver 4
+    towel       3 ;
+    
+param Value :=
+    hammer      8
+    wrench      3
+    screwdriver 6
+    towel       11 ;
+    
+param MaxWeight := 14;
